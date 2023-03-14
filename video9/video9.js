@@ -16,5 +16,3 @@ console.log('typeof b: ', typeof b, b);
 // ==  : value;
 
 // Should use === 
-
-
