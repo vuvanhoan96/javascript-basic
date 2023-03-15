@@ -27,7 +27,7 @@ let arr = [
     {name: 'Duy', age: 29},
     {name: 'Khanh', age: 30}
 ]
-let filter = arr.filter((item)=> {
+let filter = arr.filter((item, index)=> {
     return item && item.age === 19;
 });
 // let filter = arr.find((item)=> {
