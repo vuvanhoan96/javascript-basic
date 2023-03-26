@@ -6,6 +6,7 @@ let b = 5;
 console.log(`Gia tri cua a = ${a} b = ${b} a+b = ${a + b}`);
 
 // Object 
+// key: value,
 
 let obj = {
     name: 'Hoan', // key: name, address.
